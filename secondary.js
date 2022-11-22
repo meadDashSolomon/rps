@@ -73,5 +73,3 @@ function logRound (playerChoice, computerChoice, winner, round) {
     console.log("Computer Chose:", computerChoice);
     console.log(winner, 'Won the round');
 }
-
-game ();
